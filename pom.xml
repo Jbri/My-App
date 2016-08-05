@@ -20,4 +20,10 @@
     <developerConnection>scm:git:https://github.com/Jbri/My-App</developerConnection>
     <url>https://github.com/Jbri/My-App</url>
   </scm>
+  <distributionManagement>
+  <repository>
+    <id>release</id>
+    <url>http://localhost:8081/nexus/content/repositories/releases/</url>
+  </repository>
+</distributionManagement>
 </project>
