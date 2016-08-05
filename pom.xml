@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+    <connection>scm:git:https://github.com/Jbri/My-Appy</connection>
+    <developerConnection>scm:git:https://github.com/Jbri/My-App</developerConnection>
+    <url>https://github.com/Jbri/My-App</url>
+  </scm>
 </project>
