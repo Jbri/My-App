@@ -37,7 +37,7 @@
   </scm>
   <distributionManagement>
   <repository>
-    <id>release</id>
+    <id>releases</id>
     <url>http://localhost:8081/nexus/content/repositories/releases/</url>
   </repository>
 </distributionManagement>
